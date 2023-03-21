@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-// sizeof evaluates the size of a variable
+// sizeof evaluates the size of a variable"
 printf("Size of a char: %lu byte(s)\n", (unsigned long), sizeof(char));
 printf("Size of an int: %lu byte(s)\n", (unsigned long), sizeof(int));
 printf("Size of a long int: %lu byte(s)\n", (unsigned long), sizeof(long int));
