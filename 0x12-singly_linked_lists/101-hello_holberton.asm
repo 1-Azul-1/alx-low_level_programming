@@ -4,6 +4,6 @@ main:
 mov edi, format
 xor eax, eax
 call printf
-move eax, 0
+move exa, 0
 ret
 format: db `Hello, Holberton\n´,0
